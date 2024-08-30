@@ -14,7 +14,7 @@ main{
 }
 
 header >  span{
-    font-size: 0.5rem;
+    font-size: 1rem;
     font-weight: 700;
     color: #6b778c;
     letter-spacing: 0.02rem;
@@ -64,6 +64,7 @@ header > h1{
     font-size: 0.9rem;
     font-weight: 500;
     color: #4d5c76;
+    margin-bottom: 5px;
 }
 
 .coluna_card_movendo{
