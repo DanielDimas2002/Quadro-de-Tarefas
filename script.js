@@ -35,7 +35,7 @@ const drop = ({ target }) => {
 
 // Cria um novo card ao clicar duas vezes na coluna
 const createCard = ({target}) =>{
-    if (target.classList.contains("coluna_cards")) return // Verifica se o clique foi na coluna
+    if (!target.classList.contains("coluna_cards")) return // Verifica se o clique foi na coluna
 
     const card = document.createElement("section") // Cria um novo elemento de card
 
