@@ -1,67 +1,62 @@
 
 
 ```markdown
-# Quadro de Tarefas
+# 📌 Quadro de Tarefas (Kanban)
 
-Projeto de um quadro de tarefas interativo, estilo **Kanban**, para organização pessoal ou de projetos. Desenvolvido com HTML, CSS e JavaScript puros.
+Projeto simples de quadro de tarefas estilo **Kanban**, feito com **HTML**, **CSS** e **JavaScript puro**, para organizar tarefas em colunas arrastáveis e editáveis.
 
-## 📽️ Demonstração
+---
 
-Assista ao funcionamento do projeto neste vídeo:  
-▶️ [Ver no YouTube](https://youtu.be/m-enmV7exqg?si=kW0azUG-j88-9-nB)
+## 🎥 Demonstração
 
-## 📋 Descrição
+Assista ao funcionamento do projeto no YouTube:  
+👉 [https://youtu.be/m-enmV7exqg](https://youtu.be/m-enmV7exqg?si=kW0azUG-j88-9-nB)
 
-Este quadro de tarefas permite **criar, editar, arrastar e organizar tarefas** em diferentes colunas:
+---
 
-- **Pendentes**
-- **Em progresso**
-- **Revisão**
-- **Concluídas**
+## 🧠 Funcionalidades
 
-Foi pensado para funcionar localmente, sem depender de frameworks ou bibliotecas externas. Ideal para aprendizado de **manipulação de DOM**, **eventos do mouse** e **interatividade com drag and drop**.
+- 🖱️ Criar tarefas com **clique duplo** em qualquer coluna  
+- 📝 Editar o conteúdo diretamente (modo editável)  
+- 🧲 Mover tarefas com **arrastar e soltar** (drag and drop)  
+- 🗑️ Remoção automática de tarefas **vazias ao sair do foco**
 
-## 🛠️ Tecnologias Utilizadas
+---
+
+## 🧪 Tecnologias
 
 - HTML5  
 - CSS3  
-- JavaScript Vanilla (puro)
+- JavaScript Vanilla (sem frameworks)
 
-## 🚀 Como executar o projeto
+---
 
-1. Clone este repositório:
+## 🚀 Como usar
+
+1. Baixe ou clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/quadro-de-tarefas.git
-   ```
-
-2. Acesse a pasta do projeto:
-   ```bash
    cd quadro-de-tarefas
    ```
 
-3. Abra o arquivo `index.html` no navegador:
-   - Dê dois cliques sobre o arquivo  
-   **ou**  
-   - Use o Live Server (extensão do VS Code)
+2. Abra o arquivo `index.html` no navegador (clique duplo ou via Live Server no VS Code)
 
-> Nenhuma dependência externa é necessária.
+> Não há necessidade de instalar nada. É um projeto totalmente estático.
 
-## ✨ Funcionalidades
+---
 
-- [x] **Adicionar tarefa** com clique duplo em qualquer coluna
-- [x] **Editar texto** da tarefa diretamente
-- [x] **Mover tarefas** entre colunas via **drag and drop**
-- [x] **Remoção automática** de cards vazios ao sair do foco
-- [ ] Salvar tarefas no LocalStorage
+## 🙋‍♂️ Autor
 
-## 💡 Como usar
+**Daniel Dimas de Souza**  
+🔗 GitHub: [@seu-usuario](https://github.com/seu-usuario)  
+🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
 
-- Clique duas vezes em uma coluna para criar uma nova tarefa
-- Digite o conteúdo e clique fora do card para finalizar
-- Para mover a tarefa, clique e arraste até a coluna desejada
-- Se a tarefa estiver vazia e perder o foco, ela será automaticamente excluída
+---
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.  
-Sinta-se livre para usar, modificar e compartilhar!
+Distribuído sob a licença MIT.  
+Você pode usar, modificar e compartilhar livremente.
+
+```
+
