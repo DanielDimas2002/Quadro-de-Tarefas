@@ -45,13 +45,6 @@ Assista ao funcionamento do projeto no YouTube:
 
 ---
 
-## 🙋‍♂️ Autor
-
-**Daniel Dimas de Souza**  
-🔗 GitHub: [@seu-usuario](https://github.com/seu-usuario)  
-🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-
----
 
 ## 📄 Licença
 
